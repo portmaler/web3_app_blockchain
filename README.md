@@ -1,6 +1,6 @@
 # Krypt - Web 3.0 Blockchain Application
 
-![Krypt Banner](link-to-banner-image)
+![Krypt Banner](client/home_readme.png)
 
 **Table of Contents**
 
@@ -15,11 +15,7 @@
 
 Web 3.0 has the potential to change the internet as we know it, forever. Krypt is a Web 3.0 blockchain application that demonstrates the power of blockchain technology. This project was created in collaboration with Enyel Sequeira.
 
-**YouTube Video**: [Watch the Tutorial](link-to-youtube-video)
-
-**Course**: [NFT Marketplace Course](link-to-nft-marketplace-course)
-
-The long-awaited NFT Marketplace course is finally out! Check it out and become a professional Web3 developer - https://www.jsmastery.pro/ultimate-we... 🔥
+This project was inspired by the YouTube tutorial [Watch the Tutorial](https://www.youtube.com/watch?v=Wn_Kb3MR_cU&t=7189s&ab_channel=JavaScriptMastery).
 
 With a stunning design, connected to the blockchain, MetaMask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, writing Solidity code, and much more, Krypt is the best #Web3 #Blockchain app that you can currently find on YouTube and the entire internet.
 
@@ -43,7 +39,7 @@ To run this project locally, follow these steps:
 
 2. **Install the necessary dependencies for both the client and smart contract folders**.
 
-````bash
+```bash
 # Install client dependencies
 cd client
 npm install
@@ -51,7 +47,7 @@ npm install
 # Install smart contract dependencies
 cd ../smart_contract
 npm install
-
+```
 ## Usage
 Start the client application.
 bash
@@ -74,4 +70,4 @@ bash
     MetaMask
     Vite
     Tailwind CSS
-````
+
