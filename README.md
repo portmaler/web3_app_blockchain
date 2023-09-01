@@ -48,26 +48,35 @@ npm install
 cd ../smart_contract
 npm install
 ```
+
 ## Usage
+
 Start the client application.
 bash
+
 1. **Start the client application:**
+
    ```bash
    # In the client folder
    npm run dev
 
-2. **Deploy the smart contract
+   ```
+
+2. \*\*Deploy the smart contract
+
    ```bash
    # In the smart_contract folder
    npx hardhat run scripts/deploy.js
 
+   ```
+
 3. **Access the application at http://localhost:3000 in your web browser.**
 
 ## Technologies Used
-    React
-    Ethereum
-    Solidity
-    MetaMask
-    Vite
-    Tailwind CSS
 
+- React
+- Ethereum
+- Solidity
+- MetaMask
+- Vite
+- Tailwind CSS
